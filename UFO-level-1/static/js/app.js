@@ -43,3 +43,4 @@ button.on("click", () => {
         $tbody.append("tr").append("td").text("No Luck, Try Again.");
     }
 })
+
